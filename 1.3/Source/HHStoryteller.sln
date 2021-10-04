@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHStoryteller", "HHStoryteller.csproj", "{A57EC5C8-1F29-4ACC-A5B0-1B3D12D4984C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57EC5C8-1F29-4ACC-A5B0-1B3D12D4984C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57EC5C8-1F29-4ACC-A5B0-1B3D12D4984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57EC5C8-1F29-4ACC-A5B0-1B3D12D4984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57EC5C8-1F29-4ACC-A5B0-1B3D12D4984C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5283B3E-5416-429E-98A1-77CCD96A3A88}
+	EndGlobalSection
+EndGlobal
