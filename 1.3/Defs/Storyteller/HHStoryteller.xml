@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<StorytellerDef Name="TechStoryteller" Abstract="True">
+<StorytellerDef ParentName="BaseStoryteller" Name="TechStoryteller" Abstract="True">
     <populationIntentFactorFromPopCurve>
       <points>
         <li>0,  8.0</li>
@@ -223,7 +223,7 @@
   <StorytellerDef ParentName="TechStoryteller">
     <defName>CUBE</defName>
     <label>Curious CUBE</label>
-    <description>Cube likes to watch. Difficulty based on wealth</description>
+    <description>CUBE wants to observe and see what you can accomplish. They judge you by the wealth of your knowledge and technology, not your material possesions\n\nNOTE: Slow start for tribals, potential hard start for later technologies, increases with research gain and component use.</description>
     <portraitLarge>CUBE</portraitLarge>
     <portraitTiny>CUBETiny</portraitTiny>
     <listOrder>33</listOrder>
