@@ -17,6 +17,7 @@
         <li>11, 0.0</li>
         <li>20,-1.0</li>
       </points>
+    </populationIntentFactorFromPopCurve>
       <pointsFactorFromDaysPassed>
         <points>
           <li>(5, 0.70)</li>
